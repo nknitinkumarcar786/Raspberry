@@ -1,0 +1,8 @@
+11:35:18.833 [main] DEBUG alpha.Amazon - Setting chrome driver property
+11:35:25.179 [main] INFO  alpha.Amazon - Window Maximized
+11:35:25.179 [main] DEBUG alpha.Amazon - Now hitting Amazon server
+11:35:35.033 [main] INFO  alpha.Amazon - Landed on amazon home page
+11:57:34.548 [main] DEBUG alpha.Amazon2 - Starting browser
+11:57:40.971 [main] INFO  alpha.Amazon2 - Maximizing browser
+11:57:46.140 [main] INFO  alpha.Amazon2 - Injecting url
+11:57:46.192 [main] DEBUG alpha.Amazon2 - Found the searchbox

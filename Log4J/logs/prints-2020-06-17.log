@@ -1,0 +1,10 @@
+sa20:35:13.194 [main] ERROR alpha.DemoA - Its false
+20:35:13.196 [main] FATAL alpha.DemoA - Its Fatal
+20:37:04.390 [main] DEBUG alpha.DemoA - Debugging
+20:37:04.392 [main] INFO  alpha.DemoA - Its True
+20:37:04.393 [main] ERROR alpha.DemoA - Its false
+20:37:04.393 [main] FATAL alpha.DemoA - Its Fatal
+20:38:34.738 [main] DEBUG beta.Demo1 - Debugging
+20:38:34.740 [main] INFO  beta.Demo1 - Its true
+20:38:34.741 [main] ERROR beta.Demo1 - Its False
+20:38:34.741 [main] FATAL beta.Demo1 - Its Fatal

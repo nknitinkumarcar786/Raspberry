@@ -1,0 +1,8 @@
+11:57:46.199 [main] DEBUG alpha.Amazon2 - Entered keys Comfortably
+11:57:47.039 [main] DEBUG alpha.Amazon2 - Performed the suitable actions
+11:58:47.812 [main] DEBUG alpha.Amazon2 - Starting browser
+11:58:53.977 [main] INFO  alpha.Amazon2 - Maximizing browser
+11:59:00.305 [main] INFO  alpha.Amazon2 - Injecting url
+11:59:00.353 [main] DEBUG alpha.Amazon2 - Found the searchbox
+11:59:00.355 [main] DEBUG alpha.Amazon2 - Entered keys Comfortably
+11:59:01.137 [main] DEBUG alpha.Amazon2 - Performed the suitable actions
